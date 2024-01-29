@@ -1,0 +1,1 @@
+Introdução à Lógica de programação, explicando de forma bem simplório o que é um código, como ele funciona, para o que serve e etc.
