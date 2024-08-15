@@ -1,0 +1,6 @@
+Clientes vindos do Site:                  73, 14.60%
+Clientes vindos do Youtube:              155, 31.00%
+Clientes vindos do Instagram/Facebook:    22, 4.40%
+Clientes vindos do Instagram:              2, 0.40%
+Clientes vindos do Anuncio:              274, 54.80%
+Total de Clientes:                       500, 100.00%
